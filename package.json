@@ -30,15 +30,15 @@
   },
   "homepage": "https://github.com/hawkins/prettier-webpack-plugin#readme",
   "peerDependencies": {
-    "prettier": "^1.0.0",
-    "webpack": "^4.2.0"
+    "prettier": "^2.2.1",
+    "webpack": "^5.27.2"
   },
   "devDependencies": {
     "all-contributors-cli": "5.4.1",
     "jest": "^23.6.0",
-    "prettier": "1.14.3",
+    "prettier": "^2.2.1",
     "uuid": "3.3.2",
-    "webpack": "4.23.0",
+    "webpack": "^5.27.2",
     "jest-cli": "^23.6.0"
   }
 }
